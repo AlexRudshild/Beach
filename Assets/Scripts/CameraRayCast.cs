@@ -2,8 +2,6 @@ using UnityEngine;
 
 public class CameraRaycast : MonoBehaviour
 {
-    public GameObject sprite;
-
     private Camera _camera;
 
     void Start()

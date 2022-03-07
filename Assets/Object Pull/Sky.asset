@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416128cd74b0f6041879dd127ff6589a, type: 3}
+  m_Name: Sky
+  m_EditorClassIdentifier: 
+  _tmps:
+  - Sprite: {fileID: 21300000, guid: 2f6c96ac662842542a89f414a4a2a13b, type: 3}
+    MaxCount: 1
+  - Sprite: {fileID: 21300000, guid: 61f5fa9bb40954442b7f4502e0d64cc7, type: 3}
+    MaxCount: 2
+  - Sprite: {fileID: 21300000, guid: 985bc1912f8ae674faf8028b0607f18c, type: 3}
+    MaxCount: 1
+  - Sprite: {fileID: 21300000, guid: c8442b7fd3009b24b8d39674f6da4d04, type: 3}
+    MaxCount: 3
+  - Sprite: {fileID: 21300000, guid: 7bb12eca841168f4a8ff92f976003629, type: 3}
+    MaxCount: 1

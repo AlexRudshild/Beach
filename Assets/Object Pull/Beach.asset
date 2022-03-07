@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416128cd74b0f6041879dd127ff6589a, type: 3}
+  m_Name: Beach
+  m_EditorClassIdentifier: 
+  _tmps:
+  - Sprite: {fileID: 21300000, guid: 09da7ecce3ad7b8429aac1342e7bbcc9, type: 3}
+    MaxCount: 3
+  - Sprite: {fileID: 21300000, guid: 6b63adba4d9c28e40b09adfb42ee9591, type: 3}
+    MaxCount: 1
+  - Sprite: {fileID: 21300000, guid: a0d473aba541065488bb11152f548980, type: 3}
+    MaxCount: 5
+  - Sprite: {fileID: 21300000, guid: 2d2de61d0196bc541ac32eb640e417b8, type: 3}
+    MaxCount: 1
